@@ -1,3 +1,6 @@
 [submodule "themes/universal"]
 	path = themes/universal
 	url = https://github.com/devcows/hugo-universal-theme
+[submodule "public"]
+	path = public
+	url = https://github.com/quckoo/quckoo.github.io.git
