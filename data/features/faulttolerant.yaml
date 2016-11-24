@@ -1,0 +1,4 @@
+weight: 2
+name: "Fault tolerant"
+icon: "fa fa-fire-extinguisher"
+description: "Designed with tolerance for hardware failures in mind"

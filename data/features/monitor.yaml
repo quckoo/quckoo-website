@@ -1,0 +1,4 @@
+weight: 5
+name: "Monitoring"
+icon: "fa fa-line-chart"
+description: "Real-time monitoring of the activity in the cluster due to its event-driven design"

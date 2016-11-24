@@ -1,3 +1,10 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 title = "My New Hugo Site"
 languageCode = "en-us"
+theme = "universal"
+
+[params.carousel]
+  enable = true
+
+[params.features]
+  enable = true

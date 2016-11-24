@@ -1,0 +1,4 @@
+weight: 1
+name: "Distributed"
+icon: "fa fa-cubes"
+description: "Scales linearly to very large scale clusters"
