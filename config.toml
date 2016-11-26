@@ -5,6 +5,7 @@ theme = "universal"
 
 [params]
   style = "blue"
+  logo = "img/quckoo_logo.png"
   #about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
   copyright = "Copyright (c) 2015 - 2016, Antonio Alonso Dominguez; all rights reserved."
 

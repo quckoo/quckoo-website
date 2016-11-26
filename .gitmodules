@@ -4,3 +4,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/quckoo/quckoo.github.io.git
+	branch = master
